@@ -1,3 +1,3 @@
 # TopicosComputacaoII
-Conteúdo de demonstração da disciplina
+Conteúdo de demonstração
 
